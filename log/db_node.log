@@ -1,0 +1,15 @@
+
+=INFO REPORT==== 9-Mar-2015::15:51:00 ===
+need wait nodes ['timer@127.0.0.1'] 
+
+=INFO REPORT==== 9-Mar-2015::15:51:00 ===
+ping Node 'timer@127.0.0.1' 
+
+=INFO REPORT==== 9-Mar-2015::15:51:02 ===
+global_wait finished 
+
+=INFO REPORT==== 9-Mar-2015::15:53:09 ===
+db_operater_mod start end 
+
+=INFO REPORT==== 9-Mar-2015::15:53:10 ===
+table [wing_intensify_up] attributes are different
